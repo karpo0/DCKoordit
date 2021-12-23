@@ -1,5 +1,5 @@
 # Discord Koordit
-Simppelit Discord Koordit ESX Servereille
+   Simppelit Discord Koordit ESX Servereille
 
 - Koodit Discordiin Komennolla
 - Logeihin Sisältyy Pelaajan Suunta Ja Koordinaatit
