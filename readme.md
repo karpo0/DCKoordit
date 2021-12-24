@@ -1,5 +1,5 @@
-# Discord Koordit
-   Simppelit Discord Koordit ESX Servereille
+# Discord Coords
+ Simple Discord Coords!
 
 - Coordinates To Discord With A Command
 - Logs Include Player's Coordinates And Heading
