@@ -1,4 +1,4 @@
-RegisterCommand('coordis', function() -- Registers the command which you could change if you wanted to!
+RegisterCommand('coordis', function() -- Registers the command which you could change if you want to!
     TriggerEvent('fcl:coordis')
 end)
 
